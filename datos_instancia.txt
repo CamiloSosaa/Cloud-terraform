@@ -1,0 +1,10 @@
+instancia creda con IP 54.166.36.5
+instancia 54.166.36.5 destruida
+instancia creda con IP 34.201.68.158
+instancia 34.201.68.158 destruida
+instancia creda con IP 52.86.170.137
+instancia 54.157.191.216 destruida
+instancia creda con IP 3.85.196.179
+instancia 3.85.196.179 destruida
+instancia 3.94.198.242 destruida
+instancia creda con IP 3.85.241.149
